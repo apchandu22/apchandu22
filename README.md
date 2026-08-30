@@ -13,9 +13,9 @@
 
 Software Test Engineer with **3+ years of experience** in Manual and Automation Testing across web, mobile and API-based applications.
 
-I focus on practical QA across the STLC — requirement analysis, test design, functional and regression testing, defect management, API validation, automation and release validation.
+Experienced in STLC, test case design, functional testing, regression testing, integration testing, defect management, API validation, and release validation.
 
-Currently building **production-style QA automation projects** with Selenium Java, TestNG, Maven, Page Object Model, API testing and CI/CD.
+Hands-on with Selenium WebDriver, Java, TestNG, Maven, Page Object Model (POM), REST Assured, Postman, SQL, Git, GitHub, Jenkins, and CI/CD.
 
 ## 🛠️ Core Skills
 
